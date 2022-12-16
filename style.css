@@ -4,3 +4,34 @@
     font-family: "Arvo", "Times New Roman", serif;
     text-align: center;
 }
+
+
+/* Color-Section */
+
+.color-container {
+    width: 90%;
+    height: 200%;
+    margin-left: 5%;
+    border: 1px solid black;
+}
+
+.color-container h3 {
+    text-align: center;
+    font-family: Arvo, "Times New Roman", serif;
+    font-size: 1.5em;
+    margin-bottom: 0%;
+}
+
+.color-container p {
+    text-align: center;
+}
+
+.color-one {
+    display: inline-block;
+}
+
+.color-two {
+    display: inline-block;
+}
+
+
