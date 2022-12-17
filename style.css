@@ -34,6 +34,7 @@
     margin: 20px 30px;
     width: 20%;
     height: 150px;
+    padding-top: 30px;
 }
 
 .color-two {
@@ -43,6 +44,7 @@
     margin: 20px 30px;
     width: 20%;
     height: 150px;
+    padding-top: 30px;
 }
 
 .color-three {
@@ -52,6 +54,7 @@
     margin: 20px 30px;
     width: 20%;
     height: 150px;
+    padding-top: 30px;
 }
 
 .color-four {
@@ -62,6 +65,26 @@
     margin: 20px 30px;
     width: 20%;
     height: 150px;
+    padding-top: 30px;
 }
 
+/* Fonts */
 
+.font-container {
+    width: 90%;
+    height: 200%;
+    margin-left: 5%;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+
+.font-container h3 {
+    text-align: center;
+    font-family: Arvo, "Times New Roman", serif;
+    font-size: 1.5em;
+    margin-bottom: 0%;
+}
+
+.font-container p {
+    text-align: center;
+}
