@@ -159,4 +159,39 @@
     margin-left: 5%;
     margin-top: 50px;
     border: 1px solid black;
+    margin-bottom: 50px;
+}
+
+.textstyles-container h3 {
+    text-align: center;
+    font-family: Arvo, "Times New Roman", serif;
+    font-size: 1.5em;
+    margin-bottom: 0%;
+}
+
+.textstyles-container h1 {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Arvo;
+}
+
+.main-heading {
+    margin: 20px 30px;
+}
+
+.textstyles-container h2 {
+    font-size: 25px;
+    font-family: Assistant;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.second-heading {
+    margin: 20px 30px;
+}
+
+.paragraph-text {
+    font-family: "Noto-Serif";
+    font-size: 18px;
+    margin: 20px 30px;
 }
