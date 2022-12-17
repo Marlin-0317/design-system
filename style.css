@@ -88,3 +88,65 @@
 .font-container p {
     text-align: center;
 }
+
+.first-font {
+    display: inline-block;
+    margin: 20px 30px;
+}
+
+.first-font .arvo-regular {
+    font-family: Arvo;
+    font-style: normal;
+}
+
+.first-font .arvo-italics {
+    font-family: Arvo;
+    font-style: italic;
+}
+
+.first-font .arvo-bold {
+    font-family: Arvo;
+    font-weight: bold;
+}
+
+.second-font {
+    display: inline-block;
+    margin-left: 400px;
+}
+
+.second-font .assistant-regular {
+    font-family: Assistant;
+    font-style: normal;
+}
+
+.second-font .assistant-semibold {
+    font-family: Assistant;
+    font-weight: 600;
+}
+
+.second-font .assistant-bold {
+    font-family: Assistant;
+    font-weight: 800;
+}
+
+.third-font {
+    display: inline-block;
+    margin: 20px 30px;
+}
+
+.third-font .notoserif-regular {
+    font-family: "Noto Serif";
+    font-style: normal;
+}
+
+.third-font .notoserif-italics {
+    font-family: "Noto-Serif";
+    font-style: italic;
+    font-size: 1.2em;
+}
+
+.third-font .notoserif-bold {
+    font-family: "Noto-Serif";
+    font-weight: 700;
+    font-size: 1.2em;
+}
