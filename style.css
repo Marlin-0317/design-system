@@ -28,10 +28,40 @@
 
 .color-one {
     display: inline-block;
+    text-align: center;
+    color: white;
+    background-color: #94D1BE;
+    margin: 20px 30px;
+    width: 20%;
+    height: 150px;
 }
 
 .color-two {
     display: inline-block;
+    text-align: center;
+    background-color: #DAF0EE;
+    margin: 20px 30px;
+    width: 20%;
+    height: 150px;
+}
+
+.color-three {
+    display: inline-block;
+    text-align: center;
+    background-color: #9DB5B2;
+    margin: 20px 30px;
+    width: 20%;
+    height: 150px;
+}
+
+.color-four {
+    display: inline-block;
+    text-align: center;
+    color: white;
+    background-color: #3B413C;
+    margin: 20px 30px;
+    width: 20%;
+    height: 150px;
 }
 
 
