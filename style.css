@@ -24,6 +24,7 @@
 
 .color-container p {
     text-align: center;
+    font-size: 1.2em;
 }
 
 .color-one {
@@ -87,6 +88,11 @@
 
 .font-container p {
     text-align: center;
+    font-size: 1.1em;
+}
+
+.font-container p strong {
+    text-decoration: underline;
 }
 
 .first-font {
