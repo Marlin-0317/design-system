@@ -151,6 +151,18 @@
     font-size: 1.2em;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
 /* Text-Styles */
 
 .textstyles-container {
